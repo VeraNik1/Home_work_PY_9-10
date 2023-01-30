@@ -27,7 +27,7 @@ At the end you'll see the result of the game
 
 ![](ttt4.jpg)
 
-Send **/calc** + math expression like (2 +3) / 5 to get the result. For example "/calc 2
+Send **/calc** + math expression like (2 +3) / 5 to get the result. For example "/calc 2 + 3* (5-11)"
 
 ![](calc.jpg)
 
