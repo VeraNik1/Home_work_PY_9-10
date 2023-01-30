@@ -15,7 +15,7 @@ You'll get a clear tictactoe field
 
 ![](ttt1.jpg)
 
-Hress any button to put 'X' there and the Bot will make its choice
+Press any button to put 'X' there and the Bot will make its choice
 
 ![](ttt2.jpg)
 
